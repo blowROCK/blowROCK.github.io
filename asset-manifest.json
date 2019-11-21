@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d68f926.chunk.css",
-    "main.js": "/static/js/main.eb8f3f32.chunk.js",
-    "main.js.map": "/static/js/main.eb8f3f32.chunk.js.map",
+    "main.css": "/static/css/main.5d686d64.chunk.css",
+    "main.js": "/static/js/main.d2defdba.chunk.js",
+    "main.js.map": "/static/js/main.d2defdba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a5eaf332.js",
     "runtime-main.js.map": "/static/js/runtime-main.a5eaf332.js.map",
     "static/js/2.51942952.chunk.js": "/static/js/2.51942952.chunk.js",
     "static/js/2.51942952.chunk.js.map": "/static/js/2.51942952.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.009fee560f6c4708cac27526441cad05.js": "/precache-manifest.009fee560f6c4708cac27526441cad05.js",
+    "precache-manifest.14feb5172ba49f2919bb21eef2c8fba7.js": "/precache-manifest.14feb5172ba49f2919bb21eef2c8fba7.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1d68f926.chunk.css.map": "/static/css/main.1d68f926.chunk.css.map",
+    "static/css/main.5d686d64.chunk.css.map": "/static/css/main.5d686d64.chunk.css.map",
     "static/media/admin-0.gif": "/static/media/admin-0.e52e8eb8.gif",
     "static/media/admin-1.gif": "/static/media/admin-1.acd8cf0b.gif",
     "static/media/admin-2.png": "/static/media/admin-2.79fde953.png",
@@ -41,7 +41,7 @@
     "static/media/edu-12.png": "/static/media/edu-12.79a5b79c.png",
     "static/media/edu-13.png": "/static/media/edu-13.70b46bb2.png",
     "static/media/edu-14.png": "/static/media/edu-14.7498cedf.png",
-    "static/media/edu-15.png": "/static/media/edu-15.7714c805.png",
+    "static/media/edu-15.gif": "/static/media/edu-15.4d63a78a.gif",
     "static/media/edu-16.png": "/static/media/edu-16.fb9817c2.png",
     "static/media/edu-17.png": "/static/media/edu-17.a4a6b1ff.png",
     "static/media/galaxy_1.png": "/static/media/galaxy_1.586c5fc9.png",
@@ -94,7 +94,7 @@
     "static/media/thum_edu-12.jpg": "/static/media/thum_edu-12.7b117ac5.jpg",
     "static/media/thum_edu-13.jpg": "/static/media/thum_edu-13.b72fae36.jpg",
     "static/media/thum_edu-14.jpg": "/static/media/thum_edu-14.3231370e.jpg",
-    "static/media/thum_edu-15.jpg": "/static/media/thum_edu-15.f762b7af.jpg",
+    "static/media/thum_edu-15.jpg": "/static/media/thum_edu-15.f3d9b902.jpg",
     "static/media/thum_edu-16.jpg": "/static/media/thum_edu-16.869b3cf3.jpg",
     "static/media/thum_edu-17.jpg": "/static/media/thum_edu-17.99dd1d3a.jpg",
     "static/media/thum_inno-1.jpg": "/static/media/thum_inno-1.3b5843f2.jpg",
@@ -116,7 +116,7 @@
   "entrypoints": [
     "static/js/runtime-main.a5eaf332.js",
     "static/js/2.51942952.chunk.js",
-    "static/css/main.1d68f926.chunk.css",
-    "static/js/main.eb8f3f32.chunk.js"
+    "static/css/main.5d686d64.chunk.css",
+    "static/js/main.d2defdba.chunk.js"
   ]
 }
